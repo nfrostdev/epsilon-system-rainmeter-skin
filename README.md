@@ -1,4 +1,11 @@
 # Epsilon System Rainmeter Skin
+This is a work in progress and not yet finished.
+
+## Requirements
+* [CoreTemp](https://www.alcpu.com/CoreTemp/) must be running.
+* [SpeedFan](http://www.almico.com/speedfan.php) must be running.
+
+SpeedFan and unfortunately gives inaccurate readings for some CPU temperatures, if not all, otherwise it would be the only requirement.
 
 ## Installation with Git
 1. Navigate to your RainMeter Skins folder in a terminal. (Usually C:\Users\YOUR_USERNAME\Documents\Rainmeter\Skins)
